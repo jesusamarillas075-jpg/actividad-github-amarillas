@@ -1,4 +1,3 @@
-proyecto git conflics
-responsable equipo A
-version 1.0
-
+Proyecto: Git Conflicts
+Responsable: EQUIPO-A y EQUIPO-B
+Version: 1.0
