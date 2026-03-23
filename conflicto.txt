@@ -1,3 +1,4 @@
 proyecto git conflics
-responsable amarillas
+responsable equipo A
 version 1.0
+
